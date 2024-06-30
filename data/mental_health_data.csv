@@ -1,0 +1,501 @@
+user_input,sentiment,topics,entities,recommendations
+I'm feeling overwhelmed with my school assignments.,overwhelmed,education,school,Create a study schedule to manage your assignments.
+I've been experiencing a lot of anxiety during social events.,neutral,health,anxiety,Consider seeking professional advice.
+My depression has been getting worse lately.,neutral,health,depression,Consider seeking professional advice.
+I've been really happy with my progress in therapy.,happy,health,therapy,Share your positive experiences with your therapist.
+I'm finding it hard to sleep at night due to stress.,neutral,health,stress,Consider seeking professional advice.
+"I feel isolated and lonely, especially on weekends.",neutral,personal development,general,Consider seeking professional advice.
+I've been having frequent panic attacks at work.,neutral,work,work,Consider seeking professional advice.
+My mood swings are making it difficult to focus.,neutral,other,mood swings,Consider seeking professional advice.
+"I'm excited about my upcoming vacation, but also a bit anxious.",anxious,other,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling really good since I started exercising regularly.,happy,other,general,Share your happiness with others and spread positivity.
+I can't seem to shake off this constant feeling of worry.,neutral,other,general,Consider seeking professional advice.
+My self-esteem has been really low lately.,sad,personal development,self-esteem,"Engage in activities that used to make you happy, even if it's hard at first."
+I've been struggling to cope with my recent breakup.,neutral,relationships,breakup,Consider seeking professional advice.
+I'm feeling very stressed about my financial situation.,anxious,health,financial situation,Discuss your concerns with a healthcare professional.
+I've been having trouble concentrating on my studies.,neutral,education,general,Consider seeking professional advice.
+I feel very calm and relaxed after my yoga sessions.,happy,personal development,yoga,Maintain your positive habits and continue doing what brings you joy.
+I've been feeling more energetic and motivated lately.,neutral,other,general,Consider seeking professional advice.
+My anxiety has been through the roof because of my new job.,neutral,work,job,Consider seeking professional advice.
+I've been feeling very tired and low on energy recently.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I feel proud of how I've been managing my stress.,happy,health,stress,Maintain your positive habits and continue doing what brings you joy.
+I've been feeling very anxious about the future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I find it hard to talk about my feelings with friends and family.,neutral,relationships,family,Consider seeking professional advice.
+I've been feeling a lot better after starting my new medication.,neutral,health,medication,Consider seeking professional advice.
+I feel very anxious in crowded places.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm enjoying my daily walks; they help clear my mind.,neutral,other,general,Consider seeking professional advice.
+I've been feeling really down ever since my pet passed away.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I feel grateful for the support I've received from my therapist.,happy,other,general,Share your happiness with others and spread positivity.
+I've been feeling very restless and agitated.,neutral,other,general,Consider seeking professional advice.
+I'm finding it hard to balance work and personal life.,neutral,work,work,Consider seeking professional advice.
+I've been feeling a lot of pressure to succeed at my job.,overwhelmed,work,job,Communicate with your manager about your workload.
+I've been feeling very irritable and short-tempered recently.,overwhelmed,other,general,Prioritize your tasks and focus on one thing at a time.
+I can't seem to stop overthinking everything.,neutral,other,general,Consider seeking professional advice.
+I've been struggling with my self-image and confidence.,neutral,personal development,general,Consider seeking professional advice.
+I feel very anxious about my health.,anxious,health,health,Stay informed but avoid overloading yourself with information.
+I've been feeling very disconnected from my friends.,neutral,relationships,friends,Consider seeking professional advice.
+I have a constant feeling of dread that I can't explain.,neutral,other,general,Consider seeking professional advice.
+I've been feeling really sad and unmotivated to do anything.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm having trouble finding joy in activities I used to enjoy.,neutral,other,general,Consider seeking professional advice.
+I've been feeling very stressed about my upcoming exams.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about my past mistakes.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about public speaking.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+"I feel like I'm not good enough, no matter what I do.",happy,other,general,Maintain your positive habits and continue doing what brings you joy.
+I've been feeling very overwhelmed by my responsibilities.,overwhelmed,other,general,Prioritize your tasks and focus on one thing at a time.
+I'm worried about my relationship with my partner.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very isolated and misunderstood.,neutral,other,general,Consider seeking professional advice.
+I've been feeling very frustrated with my lack of progress.,overwhelmed,other,general,Prioritize your tasks and focus on one thing at a time.
+I feel like I'm constantly on edge.,neutral,other,general,Consider seeking professional advice.
+I've been feeling very anxious about my job performance.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I'm having trouble coping with the loss of a loved one.,neutral,other,general,Consider seeking professional advice.
+I've been feeling very hopeless about my future.,neutral,other,general,Consider seeking professional advice.
+I feel very anxious about meeting new people.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very guilty for taking time off work.,guilty,work,work,Talk to a trusted friend or counselor about your feelings of guilt.
+"I feel very lonely, even when I'm with others.",neutral,personal development,general,Consider seeking professional advice.
+I've been feeling very stressed about my family situation.,anxious,relationships,family,Practice mindfulness or deep breathing exercises to calm your mind.
+"I feel like I can't relax, no matter what I do.",neutral,other,general,Consider seeking professional advice.
+I've been feeling very anxious about climate change.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very unappreciated at my job.,neutral,work,job,Consider seeking professional advice.
+I've been feeling very discouraged about my career path.,neutral,work,general,Consider seeking professional advice.
+I feel very anxious about leaving my house.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very overwhelmed by the news and media.,overwhelmed,other,general,Delegate responsibilities if possible and take breaks when needed.
+I'm feeling stressed because I have too many deadlines at work.,anxious,work,work,"Break down your tasks into smaller, manageable steps."
+I've been feeling very anxious about my upcoming presentation.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very nervous about my job interview next week.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I've been feeling very sad since I moved to a new city.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm having trouble dealing with my parents' divorce.,neutral,relationships,general,Consider seeking professional advice.
+I feel very anxious about my upcoming surgery.,anxious,health,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's behavior.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I'm having trouble adjusting to my new job.,neutral,work,job,Consider seeking professional advice.
+I've been feeling very anxious about my financial future.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Show appreciation for your family members and their support.
+I've been feeling very lonely since my best friend moved away.,neutral,personal development,general,Consider seeking professional advice.
+I'm feeling very anxious about my health insurance situation.,anxious,health,health,Discuss your concerns with a healthcare professional.
+I've been feeling very stressed about my relationship with my boss.,anxious,relationships,stress,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about starting a new project at work.,anxious,work,work,Take short breaks during work to relax and recharge.
+I've been feeling very nervous about my performance review.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very overwhelmed by the amount of work I have to do.,overwhelmed,work,work,Set clear boundaries between work and personal time.
+I've been feeling very sad since my partner broke up with me.,sad,relationships,partner,Reach out to a loved one and talk about your feelings.
+I'm feeling very anxious about my upcoming exams.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my living situation.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very guilty about not spending enough time with my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my future career prospects.,anxious,work,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my upcoming move.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since I lost my job.,sad,work,job,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my workload.,anxious,work,work,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my upcoming trip.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very nervous about my upcoming performance.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my family vacation.,anxious,relationships,vacation,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my child's health.,anxious,health,health,Discuss your concerns with a healthcare professional.
+I've been feeling very sad since my grandmother passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my siblings.,anxious,relationships,stress,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my weight.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not exercising enough.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming date.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming wedding.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial stability.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet died.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my job security.,anxious,work,job,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my upcoming doctor's appointment.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not eating healthy.,guilty,health,health,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my new relationship.,anxious,relationships,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's job situation.,anxious,relationships,job,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming court date.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my career progression.,anxious,work,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend's accident.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my workload at school.,anxious,work,school,"Break down your tasks into smaller, manageable steps."
+I've been feeling very anxious about my child's education.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not spending enough time with my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming vacation.,anxious,other,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's family.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my retirement plans.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my favorite TV show ended.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my car breaking down.,sad,health,stress,"Engage in activities that used to make you happy, even if it's hard at first."
+I've been feeling very anxious about my partner's mental health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming surgery.,anxious,health,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming test.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming trip.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my child's development.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my relationship with my partner.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my partner left me.,sad,relationships,partner,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my relationship with my parents.,anxious,relationships,stress,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my child's safety.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my child.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming job interview.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my partner's health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my upcoming doctor's visit.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's mental health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's school.,anxious,health,school,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial stability.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend moved away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my family.,anxious,relationships,family,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my child's health.,anxious,health,health,Discuss your concerns with a healthcare professional.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming test.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's future.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's education.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial future.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet died.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my child's behavior.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my child's development.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's safety.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my friend passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my child's school.,anxious,health,school,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my partner's health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my child's education.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's mental health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial stability.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my pet passed away.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my upcoming doctor's appointment.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my child's education.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's future.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's development.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial future.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend left.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my child's behavior.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's safety.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my friend passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my child's school.,anxious,health,school,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my partner's health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my child's education.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's mental health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial stability.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet died.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my upcoming doctor's visit.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my child's development.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's future.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's education.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial future.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my friend moved away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my child's behavior.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my partner's job.,anxious,relationships,job,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's safety.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I feel like I'm stuck in a rut and can't get out.,neutral,other,general,Consider seeking professional advice.
+I've been feeling a lot of pressure from my parents.,overwhelmed,relationships,general,Prioritize your tasks and focus on one thing at a time.
+I'm worried about the state of the world and the future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very disconnected from my coworkers.,neutral,work,work,Consider seeking professional advice.
+I've been feeling very anxious about my upcoming move.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very stressed about planning my wedding.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my mortgage payments.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to attend my friend's wedding.,guilty,other,general,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very stressed about my child's school performance.,anxious,health,school,Discuss your concerns with a healthcare professional.
+I'm feeling very anxious about my upcoming presentation.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very overwhelmed by the amount of work I have to do.,overwhelmed,work,work,Set clear boundaries between work and personal time.
+I've been feeling very sad since my partner broke up with me.,sad,relationships,partner,Reach out to a loved one and talk about your feelings.
+I'm feeling very anxious about my upcoming exams.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my living situation.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very guilty about not spending enough time with my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my future career prospects.,anxious,work,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my upcoming move.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since I lost my job.,sad,work,job,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my workload.,anxious,work,work,"Break down your tasks into smaller, manageable steps."
+I've been feeling very anxious about my upcoming trip.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very nervous about my upcoming performance.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my family vacation.,anxious,relationships,vacation,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my child's health.,anxious,health,health,Stay informed but avoid overloading yourself with information.
+I've been feeling very sad since my grandmother passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my siblings.,anxious,relationships,stress,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my weight.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not exercising enough.,guilty,other,general,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming date.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming wedding.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial stability.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet died.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my job security.,anxious,work,job,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my upcoming doctor's appointment.,anxious,health,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not eating healthy.,guilty,health,health,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my new relationship.,anxious,relationships,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's job situation.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming court date.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my career progression.,anxious,work,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my friend's accident.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my workload at school.,anxious,work,school,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my child's education.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not spending enough time with my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming vacation.,anxious,other,vacation,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's family.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my retirement plans.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my favorite TV show ended.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my car breaking down.,sad,health,stress,"Engage in activities that used to make you happy, even if it's hard at first."
+I've been feeling very anxious about my partner's mental health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming surgery.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming test.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming trip.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my child's development.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my relationship with my partner.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my partner left me.,sad,relationships,partner,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my relationship with my parents.,anxious,relationships,stress,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my child's safety.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my child.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming job interview.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my partner's health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my partner's job.,anxious,relationships,job,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my upcoming doctor's visit.,anxious,health,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Show appreciation for your family members and their support.
+I've been feeling very nervous about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's mental health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's school.,anxious,health,school,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial stability.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my friend moved away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my family.,anxious,relationships,family,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my child's health.,anxious,health,health,Discuss your concerns with a healthcare professional.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming test.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's future.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's education.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel like I'm stuck in a rut and can't get out.,neutral,other,general,Consider seeking professional advice.
+I've been feeling a lot of pressure from my parents.,overwhelmed,relationships,general,Prioritize your tasks and focus on one thing at a time.
+I'm worried about the state of the world and the future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very disconnected from my coworkers.,neutral,work,work,Consider seeking professional advice.
+I've been feeling very anxious about my upcoming move.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very stressed about planning my wedding.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I've been feeling very anxious about my mortgage payments.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to attend my friend's wedding.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very stressed about my child's school performance.,anxious,health,school,Discuss your concerns with a healthcare professional.
+I'm feeling very anxious about my upcoming presentation.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very overwhelmed by the amount of work I have to do.,overwhelmed,work,work,Communicate with your manager about your workload.
+I've been feeling very sad since my partner broke up with me.,sad,relationships,partner,Reach out to a loved one and talk about your feelings.
+I'm feeling very anxious about my upcoming exams.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my living situation.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about not spending enough time with my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my future career prospects.,anxious,work,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my upcoming move.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since I lost my job.,sad,work,job,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my workload.,anxious,work,work,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my upcoming trip.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very nervous about my upcoming performance.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my family vacation.,anxious,relationships,vacation,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my child's health.,anxious,health,health,Stay informed but avoid overloading yourself with information.
+I've been feeling very sad since my grandmother passed away.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my relationship with my siblings.,anxious,relationships,stress,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my weight.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not exercising enough.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming date.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming wedding.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial stability.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet died.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my job security.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I've been feeling very anxious about my upcoming doctor's appointment.,anxious,health,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not eating healthy.,guilty,health,health,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my new relationship.,anxious,relationships,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's job situation.,anxious,relationships,job,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming court date.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my career progression.,anxious,work,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my friend's accident.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my workload at school.,anxious,work,school,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my child's education.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not spending enough time with my friends.,guilty,relationships,friends,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming vacation.,anxious,other,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's family.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my retirement plans.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my favorite TV show ended.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my car breaking down.,sad,health,stress,Reach out to a loved one and talk about your feelings.
+I've been feeling very anxious about my partner's mental health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming surgery.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming test.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming trip.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my child's development.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my relationship with my partner.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my partner left me.,sad,relationships,partner,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my parents.,anxious,relationships,stress,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my child's safety.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my child.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming job interview.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my partner's health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I feel very anxious about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my pet passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my upcoming doctor's visit.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my child's future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's mental health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's school.,anxious,health,school,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial stability.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend moved away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my family.,anxious,relationships,family,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my child's health.,anxious,health,health,Discuss your concerns with a healthcare professional.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming test.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's future.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's education.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel like I'm stuck in a rut and can't get out.,neutral,other,general,Consider seeking professional advice.
+I've been feeling a lot of pressure from my parents.,overwhelmed,relationships,general,Delegate responsibilities if possible and take breaks when needed.
+I'm worried about the state of the world and the future.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very disconnected from my coworkers.,neutral,work,work,Consider seeking professional advice.
+I've been feeling very anxious about my upcoming move.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very stressed about planning my wedding.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I've been feeling very anxious about my mortgage payments.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to attend my friend's wedding.,guilty,other,general,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very stressed about my child's school performance.,anxious,health,school,Stay informed but avoid overloading yourself with information.
+I'm feeling very anxious about my upcoming presentation.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very overwhelmed by the amount of work I have to do.,overwhelmed,work,work,Set clear boundaries between work and personal time.
+I've been feeling very sad since my partner broke up with me.,sad,relationships,partner,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very anxious about my upcoming exams.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my living situation.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about not spending enough time with my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my future career prospects.,anxious,work,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my upcoming move.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since I lost my job.,sad,work,job,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my workload.,anxious,work,work,"Break down your tasks into smaller, manageable steps."
+I've been feeling very anxious about my upcoming trip.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very nervous about my upcoming performance.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my family vacation.,anxious,relationships,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about my child's health.,anxious,health,health,Stay informed but avoid overloading yourself with information.
+I've been feeling very sad since my grandmother passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my siblings.,anxious,relationships,stress,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my weight.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not exercising enough.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming date.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming wedding.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial stability.,anxious,finances,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet died.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my job security.,anxious,work,job,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my upcoming doctor's appointment.,anxious,health,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not eating healthy.,guilty,health,health,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my new relationship.,anxious,relationships,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's job situation.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming court date.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my career progression.,anxious,work,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend's accident.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my workload at school.,anxious,work,school,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my child's education.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not spending enough time with my friends.,guilty,relationships,friends,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming vacation.,anxious,other,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's family.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my retirement plans.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my favorite TV show ended.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my car breaking down.,sad,health,stress,"Engage in activities that used to make you happy, even if it's hard at first."
+I've been feeling very anxious about my partner's mental health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming surgery.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming test.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about not being able to help my coworkers.,guilty,work,work,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming trip.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my child's development.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my relationship with my partner.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about my financial situation.,anxious,finances,financial situation,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my partner left me.,sad,relationships,partner,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my relationship with my parents.,anxious,relationships,stress,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very anxious about my child's safety.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very guilty about not being able to help my child.,guilty,other,general,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my upcoming job interview.,anxious,work,job,Take short breaks during work to relax and recharge.
+I'm feeling very anxious about my partner's well-being.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my partner's health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very sad since my pet passed away.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my partner's job.,anxious,relationships,job,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my upcoming doctor's visit.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to help my family.,guilty,relationships,family,Show appreciation for your family members and their support.
+I've been feeling very nervous about my child's future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's mental health.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's school.,anxious,health,school,Stay informed but avoid overloading yourself with information.
+I feel very anxious about my financial stability.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend moved away.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my relationship with my family.,anxious,relationships,family,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my child's health.,anxious,health,health,Discuss your concerns with a healthcare professional.
+I feel very guilty about not being able to help my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming test.,anxious,education,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's future.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's education.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel like I'm stuck in a rut and can't get out.,neutral,other,general,Consider seeking professional advice.
+I've been feeling a lot of pressure from my parents.,overwhelmed,relationships,general,Delegate responsibilities if possible and take breaks when needed.
+I'm worried about the state of the world and the future.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I feel very disconnected from my coworkers.,neutral,work,work,Consider seeking professional advice.
+I've been feeling very anxious about my upcoming move.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very stressed about planning my wedding.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I've been feeling very anxious about my mortgage payments.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not being able to attend my friend's wedding.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very stressed about my child's school performance.,anxious,health,school,Stay informed but avoid overloading yourself with information.
+I'm feeling very anxious about my upcoming presentation.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very overwhelmed by the amount of work I have to do.,overwhelmed,work,work,Set clear boundaries between work and personal time.
+I've been feeling very sad since my partner broke up with me.,sad,relationships,partner,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very anxious about my upcoming exams.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my living situation.,anxious,health,stress,Stay informed but avoid overloading yourself with information.
+I feel very guilty about not spending enough time with my family.,guilty,relationships,family,Spend quality time with your family and communicate openly.
+I've been feeling very nervous about my future career prospects.,anxious,work,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my upcoming move.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since I lost my job.,sad,work,job,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my workload.,anxious,work,work,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my upcoming trip.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very nervous about my upcoming performance.,anxious,other,general,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my family vacation.,anxious,relationships,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very anxious about my child's health.,anxious,health,health,Stay informed but avoid overloading yourself with information.
+I've been feeling very sad since my grandmother passed away.,sad,other,general,Reach out to a loved one and talk about your feelings.
+I'm feeling very stressed about my relationship with my siblings.,anxious,relationships,stress,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very anxious about my weight.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not exercising enough.,guilty,other,general,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming date.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's health.,anxious,relationships,partner,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very stressed about my upcoming wedding.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my financial stability.,anxious,finances,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my pet died.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my job security.,anxious,work,job,"Break down your tasks into smaller, manageable steps."
+I've been feeling very anxious about my upcoming doctor's appointment.,anxious,health,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not eating healthy.,guilty,health,health,Talk to a trusted friend or counselor about your feelings of guilt.
+I've been feeling very nervous about my new relationship.,anxious,relationships,general,Try to identify the sources of your anxiety and address them one by one.
+I'm feeling very anxious about my partner's job situation.,anxious,relationships,job,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my upcoming court date.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my career progression.,anxious,work,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my friend's accident.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my workload at school.,anxious,work,school,Take short breaks during work to relax and recharge.
+I've been feeling very anxious about my child's education.,anxious,education,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I feel very guilty about not spending enough time with my friends.,guilty,relationships,friends,Acknowledge your feelings and try to forgive yourself.
+I've been feeling very nervous about my upcoming vacation.,anxious,other,vacation,Practice mindfulness or deep breathing exercises to calm your mind.
+I'm feeling very anxious about my partner's family.,anxious,relationships,partner,Try to identify the sources of your anxiety and address them one by one.
+I've been feeling very stressed about my child's extracurricular activities.,anxious,health,stress,Discuss your concerns with a healthcare professional.
+I feel very anxious about my retirement plans.,anxious,other,general,Practice mindfulness or deep breathing exercises to calm your mind.
+I've been feeling very sad since my favorite TV show ended.,sad,other,general,"Engage in activities that used to make you happy, even if it's hard at first."
+I'm feeling very stressed about my car breaking down.,sad,health,stress,Reach out to a loved one and talk about your feelings.
