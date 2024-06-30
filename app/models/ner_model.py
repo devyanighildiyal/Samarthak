@@ -1,6 +1,5 @@
 import spacy
 
-# Load SpaCy's pre-trained model
 nlp = spacy.load('en_core_web_sm')
 
 def extract_entities(text):
