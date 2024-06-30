@@ -1,7 +1,6 @@
 import torch
 from transformers import BertTokenizer, BertForSequenceClassification
 
-# Load the sentiment analysis model
 model = BertForSequenceClassification.from_pretrained('D:/mental_health_project/saved_model_sentiment')
 tokenizer = BertTokenizer.from_pretrained('D:/mental_health_project/saved_model_sentiment')
 
