@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Samarthak</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Samarthak:Mental Health Support Tool</h1>
+    <form id="inputForm">
+        <label for="user_input">How are you feeling?</label><br>
+        <textarea id="user_input" name="user_input" rows="4" cols="50"></textarea><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <h2>Analysis Results</h2>
+    <div id="results"></div>
+
+    <script>
+        document.getElementById('inputForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var userInput = document.getElementById('user_input').value;
+            fetch('/analyze', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ user_input: userInput }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('results').innerHTML = `
+                    <p>Sentiment: ${data.sentiment}</p>
+                    <p>Topics: ${data.topics}</p>
+                    <p>Entities: ${data.entities.map(e => e.join(' - ')).join(', ')}</p>
+                    <p>Recommendations: ${data.recommendations.join(', ')}</p>
+                `;
+            });
+        });
+    </script>
+</body>
+</html>
