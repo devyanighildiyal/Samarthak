@@ -1,6 +1,4 @@
-/* styles.css */
 
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -26,6 +24,16 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5em;
+}
+
+.heading{
+    text-align: center;
+
+}
+
+.heading2{
+    text-align: center;
+
 }
 
 /* Navigation Styles */
@@ -78,7 +86,7 @@ form input, form textarea, form select {
 }
 
 form input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #10A674;
     color: white;
     border: none;
     cursor: pointer;
